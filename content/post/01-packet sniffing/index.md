@@ -5,7 +5,7 @@ slug: Introduction-to-packet-sniffing
 date: 2023-02-15 
 image: cover.png
 categories:
-    - cyber Security
+    - Cyber Security
 tags:
     - Wireshark
     - Packet Sniffing
@@ -19,11 +19,11 @@ As most people know, the computer system uses the OSI model or TCP/IP model to c
 
 First, Let's talk about packet analysis. Packet analysis is the process of capturing and interpreting data which are flow over the network. And also packet analysis is used for understanding what is happening on the network. It is the simple idea of packet analysis. Normally, packet analysis is performed by packet sniffers which are capturing raw data that is going over the network. The packet sniffers helped us to gather much useful information about the network such as, 
 
-Get an idea of what are the characteristics of the network.
-Find out who is utilizing the network bandwidth.
-Identify what are the peak times of the network.
-Identify what are the possible attacks and malicious activities on the network.
-Identify what are the unsecured applications running on the network.
+1. Get an idea of what are the characteristics of the network.
+2. Find out who is utilizing the network bandwidth.
+3. Identify what are the peak times of the network.
+4. Identify what are the possible attacks and malicious activities on the network.
+5. Identify what are the unsecured applications running on the network.
 
 ![Packet Analyzers](02.png)
 
