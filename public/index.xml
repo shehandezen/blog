@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Savindu Shehan</title>
+    <link>https://shehandezen.github.io/</link>
+    <description>Recent content on Savindu Shehan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://shehandezen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How is Technology going to impact our everyday lives in the next decade</title>
+      <link>https://shehandezen.github.io/p/how-is-technology-going-to-impact-our-everyday-lives-in-the-next-decade/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shehandezen.github.io/p/how-is-technology-going-to-impact-our-everyday-lives-in-the-next-decade/</guid>
+      <description>In the 21st century, we are passing the technological era. Technology is the most powerful weapon humans have. Technology is an applied method of knowledge that is used for achieving the goals of humans. Today, technology is used for different sectors like agriculture, transportation, health, etc. In the ancient eras, humans used manual methods to do their day-to-day activities. But, as of today humans mostly use technology to make their life easier.</description>
+    </item>
+    
+    <item>
+      <title>What is Typescript?</title>
+      <link>https://shehandezen.github.io/p/what-is-typescript/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shehandezen.github.io/p/what-is-typescript/</guid>
+      <description>In this article, I will explain. what is typescript? Why do we need typescript for software development as a developer? And also what are the benefits of typescript? As of today, Javascript is a programming language that is indispensable for web development. Previously, Javascript is used for front-end web development. But, with the release of nodejs in 2009. We could use javascript for the backend. Now, Javascript is a full-stack programming language.</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://shehandezen.github.io/archives/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shehandezen.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://shehandezen.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shehandezen.github.io/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
