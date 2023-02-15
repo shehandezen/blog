@@ -1,6 +1,6 @@
 ---
 title: Cyber Security
-description: 
+description: Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks.
 image: cyber.jpg
 
 # Badge style
