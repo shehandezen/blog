@@ -2,7 +2,7 @@
 title: What is Typescript?
 description: TypeScript is a free and open source high-level programming language developed and maintained by Microsoft.
 slug: what-is-typescript
-date: 2023-02-13
+date: 2023-02-14
 image: cover.png
 categories:
     - Typescript
