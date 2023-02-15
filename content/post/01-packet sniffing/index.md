@@ -5,7 +5,7 @@ slug: Introduction-to-packet-sniffing
 date: 2023-02-15 
 image: cover.png
 categories:
-    - Cyber Security
+    - CyberSecurity
 tags:
     - Wireshark
     - Packet Sniffing
