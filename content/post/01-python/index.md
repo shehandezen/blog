@@ -16,7 +16,7 @@ links:
   	- title: TIOBE Index
       description: The TIOBE programming community index is a measure of popularity of programming languages, created and maintained by TIOBE Software BV, based in Eindhoven, the Netherlands.
       website: https://www.tiobe.com/tiobe-index/python/
-      mage: tiobe.svg
+      image: tiobe.svg
 
 
     - title: Octoverse
