@@ -40,7 +40,7 @@ As mentioned above, Python is an interpreted language. Python uses an interprete
 As we know, python is a widely used programming language. According to the TIOBE index, python is the most popular programming language in the world. In march 2023, the python had a popularity rating of 14.83% up from 10.31%  in March 2022. The TIOBE index is an indicator of the popularity of the programming language. It tracks the popularity of the programming languages based on their search engine rankings. Python was the second most popular language for open-source projects on GitHub according to the Octoverse in 2022. There are python seconds only to Javascript. In addition, concerning universities and institutes worldwide, how much they add the python language to their computer science curriculum is the best indicator to measure the popularity of the python language. Now, Python is a part of their computer science curriculum.
 
 
-![python shell](03.png)
+![python population chart 2023](03.png)
 
 
 Overall, python language is a fast-growing open-source programming language. Because its syntax is easy to understand and it can do the majority of tasks in today's industry. therefore most companies use python language for a wide range of applications from web apps to complex machine learning models. And also, Python is recommended for programming beginners. Beginners can easily understand programming concepts using python language. therefore python is popular among educators.
