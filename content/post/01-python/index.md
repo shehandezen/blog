@@ -11,13 +11,13 @@ tags:
 
 links:
    - title: TIOBE Index
-     description: The TIOBE programming community index is a measure of popularity of programming languages, created and maintained by TIOBE Software BV, based in Eindhoven, the Netherlands.
+     description: The TIOBE programming community index is a measure of popularity of programming languages 
      website: https://www.tiobe.com/tiobe-index/python/
      image: tiobe.svg
 
 
    - title: Octoverse
-     description: An exploration of open source software including its impact on the world and companies, plus key trends shaping software development.
+     description: An exploration of open source software including its impact on the world and companies 
      website: https://octoverse.github.com/2022/top-programming-languages
      image: github.png
 
