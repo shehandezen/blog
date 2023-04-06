@@ -97,7 +97,7 @@ When you deal with binary numbers, bitwise operators are very useful for doing b
 |Operator    |      Description                                                                                         | Syntax    |
 |------------|----------------------------------------------------------------------------------------------------------|-----------|
 | &          | Bitwise AND                                                                                              | X & Y     |
-| &#124;     | Bitwise OR                                                                                               | X &#124;Y |
+| &#124;     | Bitwise OR                                                                                               | X &#124; Y|
 | ~          | Bitwise NOT                                                                                              | X ~ Y     |
 | ^          | Bitwise XOR                                                                                              | X ^ Y     |
 | >>         | Shift left by pushing zeros in from the right and let the leftmost bits fall off                         | X >> Y    |
