@@ -94,14 +94,14 @@ The logical operators can combine conditional statements and boolean values. And
 
 When you deal with binary numbers, bitwise operators are very useful for doing binary operations.  The bitwise operators perform bit-by-bit operations on the binary numbers.
 
-|Operator    |      Description                                                                                         | Syntax  |
-|------------|----------------------------------------------------------------------------------------------------------|---------|
-| &          | Bitwise AND                                                                                              | X & Y   |
-| |          | Bitwise OR                                                                                               | X | Y   |
-| ~          | Bitwise NOT                                                                                              | X ~ Y   |
-| ^          | Bitwise XOR                                                                                              | X ^ Y   |
-| >>         | Shift left by pushing zeros in from the right and let the leftmost bits fall off                         | X >> Y  |
-| <<         | Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off  | X << Y  |
+|Operator    |      Description                                                                                         | Syntax    |
+|------------|----------------------------------------------------------------------------------------------------------|-----------|
+| &          | Bitwise AND                                                                                              | X & Y     |
+| &#124;     | Bitwise OR                                                                                               | X &#124;Y |
+| ~          | Bitwise NOT                                                                                              | X ~ Y     |
+| ^          | Bitwise XOR                                                                                              | X ^ Y     |
+| >>         | Shift left by pushing zeros in from the right and let the leftmost bits fall off                         | X >> Y    |
+| <<         | Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off  | X << Y    |
 
 ## Identity Operators
 
@@ -139,20 +139,20 @@ n = n + 1
 
 In some iterations, we use like above statements. In that statement, one adds to the `n`  variable and its result assign to that `n` variable. We can easily do it using other assignment operators.  Those are in the below,
 
-| Operator  | Alternative  |
-|-----------|--------------|
-| +=        | a = a + b    |
-| -=        | a = a - b    |
-| *=        | a = a * b    |
-| /=        | a = a / b    |
-| %=        | a = a % b    |
-| //=       | a = a // b   |
-| **=       | a = a ** b   |
-| &=        | a = a & b    |
-| |=        | a = a | b    |
-| ^=        | a = a ^ b    |
-| >>=       | a = a >> b   |
-| <<=       | a = a << b   |
+| Operator  | Alternative    |
+|-----------|----------------|
+| +=        | a = a + b      |
+| -=        | a = a - b      |
+| *=        | a = a * b      |
+| /=        | a = a / b      |
+| %=        | a = a % b      |
+| //=       | a = a // b     |
+| **=       | a = a ** b     |
+| &=        | a = a & b      | 
+| &#124;=   | a = a &#124; b |
+| ^=        | a = a ^ b      |
+| >>=       | a = a >> b     |
+| <<=       | a = a << b     |
 
 ## Operator Precedence
 
