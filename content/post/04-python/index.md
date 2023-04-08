@@ -1,5 +1,5 @@
 ---
-title: Operators in Python
+title: Lists in Python
 description: In this blog, we will cover lists in Python language. 
 date: 2023-04-07
 image: cover.png
