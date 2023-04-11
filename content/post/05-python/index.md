@@ -7,6 +7,7 @@ categories:
     - Python
 tags:
     - Tuples
+    - Tuple operations
     
 
 --- 
