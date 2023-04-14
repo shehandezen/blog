@@ -22,6 +22,8 @@ Lists in Python are a mutable and changeable sequence of elements. Also, lists a
 x = ['savindu',20,['AI',' Cloud computing'], 56.2] # define a list
 ```
 
+> It's better if the elements of the list be one data type. It is a best practice for using lists in Python. 
+
 ### Accessing a list
 
 After, defining a list we can access each element in the list. For that, we can use the variable name of the list and the index of the element inside the square brackets. Also, indices of the lists are starts from zero like strings.  Here, you can access the elements as well as update those values. Because lists are mutable object type of Python.
