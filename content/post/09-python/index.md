@@ -6,9 +6,8 @@ image: cover.png
 categories:
     - Python
 tags:
-    - if
-    - if...else
-    - if...elif...else
+    - if statements
+    
 
 --- 
 
